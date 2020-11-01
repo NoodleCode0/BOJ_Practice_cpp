@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	string krill = "°­ÇÑÄ£±¸ ´ëÇÑÀ°±º";
+	string krill = "ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°";
 	cout << krill << endl << krill;
 }
